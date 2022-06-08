@@ -72,6 +72,9 @@
     <Compile Include="yael.xaml.cs">
       <DependentUpon>yael.xaml</DependentUpon>
     </Compile>
+    <Compile Include="sariK.xaml.cs">
+      <DependentUpon>sariK.xaml</DependentUpon>
+    </Compile>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -92,6 +95,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="sariK.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="tamarBarYosef.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -101,8 +108,8 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="yael.xaml">
-      <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
   <ItemGroup>
@@ -126,6 +133,7 @@
     <None Include="bin\Debug\seminarSchema.xsd">
       <SubType>Designer</SubType>
     </None>
+    <None Include="NewFile" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

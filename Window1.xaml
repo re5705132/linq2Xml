@@ -7,6 +7,17 @@
         mc:Ignorable="d"
         Title="Window1" Height="450" Width="800">
     <Grid>
-        <TextBlock FontSize="40">hi Tamar Stav join by git to mora`s project</TextBlock>
+        <Grid.RowDefinitions>
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+
+        </Grid.ColumnDefinitions>
+        <StackPanel Orientation="Vertical" >
+            <TextBlock FontSize="40" >hi Tamar Stav join by git to mora`s project</TextBlock>
+
+            <TextBlock FontSize="40" >hi Dina Landau join by git to mora`s project</TextBlock>
+        </StackPanel>
+
     </Grid>
 </Window>

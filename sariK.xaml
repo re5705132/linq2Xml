@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="Window2" Height="450" Width="800">
     <Grid>
-        <TextBlock FontSize="40">This page belongs to sari kahanovich</TextBlock>
+        <TextBlock FontSize="40">This page belongs to sari kahanovich😊</TextBlock>
     </Grid>
 </Window>

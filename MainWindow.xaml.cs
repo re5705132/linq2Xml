@@ -37,7 +37,7 @@ namespace WpfApp1
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-         Show("Test");  
+       //  Show("Test");  
         }
 
         private void Button_Click_1(object sender, RoutedEventArgs e)

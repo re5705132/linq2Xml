@@ -10,6 +10,7 @@
         <StackPanel>
             <TextBlock FontSize="40">change😊</TextBlock>
             <TextBlock FontSize="40">This page belongs to sari kahanovich😊</TextBlock>
+            <TextBlock FontSize="40">hi sari its tamar stav here cool imuji😊</TextBlock>
         </StackPanel>
        
     </Grid>

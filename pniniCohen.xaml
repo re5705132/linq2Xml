@@ -8,6 +8,8 @@
         Title="pniniCohen" Height="450" Width="800">
     <Grid>
         <TextBlock FontSize="40">Hi PniniCohen join :)</TextBlock>
+        <TextBlock FontSize="40" Margin="0,60,0,-60">Good Luck:)</TextBlock>
+
 
     </Grid>
 </Window>

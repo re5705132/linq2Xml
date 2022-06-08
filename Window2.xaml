@@ -7,11 +7,6 @@
         mc:Ignorable="d"
         Title="Window2" Height="450" Width="800">
     <Grid>
-        <StackPanel>
-            <TextBlock FontSize="40">change😊</TextBlock>
-            <TextBlock FontSize="40">This page belongs to sari kahanovich😊</TextBlock>
-            <TextBlock FontSize="40">hi sari its tamar stav here cool imuji😊</TextBlock>
-        </StackPanel>
-       
+        <TextBlock FontSize="40"> Hi DasiShtul join :) </TextBlock>
     </Grid>
 </Window>

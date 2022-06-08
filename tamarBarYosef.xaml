@@ -7,7 +7,11 @@
         mc:Ignorable="d"
         Title="tamarBarYosef" Height="450" Width="800">
     <Grid>
-        <TextBlock FontSize="40">hi TamarBarYosef again join</TextBlock>
-        <TextBox FontSize="40" Grid.Row="2">second change</TextBox>
+        <StackPanel>
+            <TextBlock FontSize="40">hi TamarBarYosef again join</TextBlock>
+            <TextBox FontSize="40" Grid.Row="2">second change</TextBox>
+            <TextBox FontSize="40" Grid.Row="2" TextChanged="TextBox_TextChanged">!!!third change tamarStav here!!!</TextBox>
+        </StackPanel>
+
     </Grid>
 </Window>

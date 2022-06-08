@@ -1,17 +1,16 @@
-﻿<Window x:Class="WpfApp1.tamarBarYosef"
+﻿<Window x:Class="WpfApp1.yael"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp1"
         mc:Ignorable="d"
-        Title="tamarBarYosef" Height="450" Width="800">
+        Title="yael" Height="450" Width="800">
     <Grid>
         <StackPanel>
-            <TextBlock FontSize="40">hi TamarBarYosef agin join</TextBlock>
-            <TextBox FontSize="40" Grid.Row="2">second change</TextBox>
-            <TextBox FontSize="40" Grid.Row="2" TextChanged="TextBox_TextChanged">!!!third change tamarStav here!!!</TextBox>
+            <TextBlock FontSize="40">Hi! I'm yael i add a new page to project..</TextBlock>
+            <TextBlock FontSize="38">second change</TextBlock>
         </StackPanel>
-
+       
     </Grid>
 </Window>

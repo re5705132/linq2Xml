@@ -15,18 +15,13 @@ using System.Windows.Shapes;
 namespace WpfApp1
 {
     /// <summary>
-    /// Interaction logic for tamarBarYosef.xaml
+    /// Interaction logic for pniniCohen.xaml
     /// </summary>
-    public partial class tamarBarYosef : Window
+    public partial class pniniCohen : Window
     {
-        public tamarBarYosef()
+        public pniniCohen()
         {
             InitializeComponent();
-        }
-
-        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
-        {
-
         }
     }
 }

@@ -8,5 +8,6 @@
         Title="yael" Height="450" Width="800">
     <Grid>
         <TextBlock FontSize="40">Hi! I'm yael i add a new page to project..</TextBlock>
+        <TextBlock>I'm add second change</TextBlock>
     </Grid>
 </Window>

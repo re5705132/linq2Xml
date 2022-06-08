@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="Window2" Height="450" Width="800">
     <Grid>
-        <TextBlock FontSize="40"> Hi DasiShtul join :) </TextBlock>
+        <TextBlock FontSize="40"> Hi DasiShtul join :) ✔✔✔</TextBlock>
     </Grid>
 </Window>

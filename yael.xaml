@@ -7,6 +7,10 @@
         mc:Ignorable="d"
         Title="yael" Height="450" Width="800">
     <Grid>
-        <TextBlock FontSize="40">Hi! I'm yael i add a new page to project..</TextBlock>
+        <StackPanel>
+            <TextBlock FontSize="40">Hi! I'm yael i add a new page to project..</TextBlock>
+            <TextBlock FontSize="38">second change</TextBlock>
+        </StackPanel>
+       
     </Grid>
 </Window>
